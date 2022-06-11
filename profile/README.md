@@ -1,10 +1,10 @@
-<p align="center"how><img src="https://github.com/Chill-and-chat/mobile/blob/master/logo.svg/" style="width:200px;"/></p>
+<p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:200px;"/></p>
 
-## Chill&chat
+# Chill&chat
 Welcome to the official Chill&chat github profile!
 Here you can find all the source code for Chill&chat, the API source is in the 'api' repository and the app is in the 'mobile' repository.
 
-## Tech stack
+### Tech stack
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
@@ -13,7 +13,7 @@ Here you can find all the source code for Chill&chat, the API source is in the '
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px">
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px">
 
 ## User safety agreement 
 
