@@ -1,4 +1,4 @@
-<p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:100px;"/></p>
+<p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:150px;"/></p>
 
 # Chill&chat
 Welcome to the official Chill&chat github profile!
