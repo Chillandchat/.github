@@ -1,8 +1,7 @@
 <p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:150px;"/></p>
 
 # Chill&chat
-Welcome to the official Chill&chat github profile!
-Here you can find all the source code for Chill&chat, the API source is in the 'api' repository and the app is in the 'mobile' repository.
+Welcome to the official Chill&chat github profile! Here you can find all the source code for Chill&chat. At Chill&chat we believe that Chill&chat should be open and free, allowing more people to use and contribute to our app as well as in helping others in coding their own dream projects with the Chill&chat CLI. 
 
 ### Tech stack
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
