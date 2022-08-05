@@ -1,4 +1,4 @@
-<p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:12rem;"/></p>
+<p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:8rem;"/></p>
 
 # Chill&chat
 Welcome to the official Chill&chat github profile! Here you can find all the source code for Chill&chat. At Chill&chat we believe that Chill&chat should be open and free, allowing more people to use and contribute to our app as well as in helping others in coding their own dream projects with the Chill&chat CLI. 
