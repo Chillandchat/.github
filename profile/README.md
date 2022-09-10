@@ -40,7 +40,7 @@ Jonathan yao
 #
 ❤️ Made With Love ❤️
 
-## Acknowledgement of country
+### Acknowledgement of country
 Chill&chat acknowledges and pays respect to the past, present and future Traditional Custodians and Elders of this nation and the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples. 
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Australian_Aboriginal_Flag.svg/2560px-Australian_Aboriginal_Flag.svg.png" style="width:8rem;"/></p>
