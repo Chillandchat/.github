@@ -1,4 +1,4 @@
-<p align="center"how><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:8rem;"/></p>
+<p align="center"><img src="https://github.com/Chillandchat/mobile/blob/master/logo.svg/" style="width:8rem;"/></p>
 
 # Chill&chat
 Welcome to the official Chill&chat github profile! Here you can find all the source code for Chill&chat. At Chill&chat we believe that Chill&chat should be open and free, allowing more people to use and contribute to our app as well as in helping others in coding their own dream projects with the Chill&chat CLI. 
@@ -39,3 +39,8 @@ Jonathan yao
 
 #
 ❤️ Made With Love ❤️
+
+## Acknowledgement of country
+Chill&chat acknowledges and pays respect to the past, present and future Traditional Custodians and Elders of this nation and the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples. 
+
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Australian_Aboriginal_Flag.svg/2560px-Australian_Aboriginal_Flag.svg.png" style="width:8rem;"/></p>
