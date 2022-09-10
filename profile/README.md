@@ -43,4 +43,4 @@ Jonathan yao
 ### Acknowledgement of country
 Chill&chat acknowledges and pays respect to the past, present and future Traditional Custodians and Elders of this nation and the continuation of cultural, spiritual and educational practices of Aboriginal and Torres Strait Islander peoples. 
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Australian_Aboriginal_Flag.svg/2560px-Australian_Aboriginal_Flag.svg.png" style="width:8rem;"/></p>
+<p align="center" style="display:flex;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Australian_Aboriginal_Flag.svg/2560px-Australian_Aboriginal_Flag.svg.png" style="width:8rem;"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Flag_of_the_Torres_Strait_Islanders.svg/1920px-Flag_of_the_Torres_Strait_Islanders.svg.png" style="width:8rem;"/> </p>
