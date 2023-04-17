@@ -1,9 +1,11 @@
 <p align="center"><img src="https://github.com/Chillandchat/.github/blob/main/logo.svg" style="width:8rem;"/></p>
 
 # Chill&chat
-Welcome to the official Chill&chat github profile! Here you can find all the source code for Chill&chat. At Chill&chat we believe that Chill&chat should be open and free, allowing more people to use and contribute to our app as well as in helping others in coding their own dream projects with the Chill&chat CLI. 
+
+Welcome to the official Chill&chat github profile! Here you can find all the source code for Chill&chat. At Chill&chat we believe that Chill&chat should be open and free, allowing more people to use and contribute to our app as well as in helping others in coding their own dream projects with Chill&chat chatscript.
 
 ### Tech stack
+
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
@@ -14,11 +16,11 @@ Welcome to the official Chill&chat github profile! Here you can find all the sou
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px">
 
-## User safety agreement 
+## User safety agreement
 
-- We will ensure that all users' private information will be private no matter what, even to the developers. 
+- We will ensure that all users' private information will be private no matter what, even to the developers.
 
-- Private data is kept safe in a database with top-of-the-line safety and encryption, we also ensure no data is sold or shared with any third parties. 
+- Private data is kept safe in a database with top-of-the-line safety and encryption, we also ensure no data is sold or shared with any third parties.
 
 - We will also make sure to listen to any community safety concerns or complaints.
 
@@ -30,12 +32,14 @@ All the above will be enforced to ensure Chill&chat is safe!
 
 ## Credits:
 
-*Alvin cheng - Software engineer*
+_Alvin cheng - Software engineer_
 
-*Brianna cheng - UI&UX designer* 
+_Brianna cheng - UI&UX designer_
 
 ### Special thanks
+
 Jonathan yao
 
 #
+
 ❤️ Made With Love ❤️
