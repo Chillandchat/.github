@@ -36,9 +36,6 @@ _Alvin cheng - Software engineer_
 
 _Brianna cheng - UI&UX designer_
 
-### Special thanks
-
-Jonathan yao
 
 #
 
